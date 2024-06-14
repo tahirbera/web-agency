@@ -110,7 +110,7 @@ const Header = () => {
                 <p style={{marginTop: '10px', marginBottom: '20px'}}>Küçükbakkalköy Mah. Mor Orkide Sk. No: 3 İç Kapı No: 2 Ataşehir/İstanbul</p>
                 <span>Bizi Arayın</span>
                 <br></br>
-                <span className='side-number'>0850 309 1401</span>
+                <span className='side-number'>08XX XX XXXX</span>
             </div>
     </div>
     </>
